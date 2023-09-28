@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.container-fluid div hr {
+    height: 5px;
+}
+
+.nav-link:hover {
+    background-color: grey;
+}
